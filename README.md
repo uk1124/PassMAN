@@ -30,3 +30,9 @@ Usage
   - This allows you to view the password while typing or copying it.
 
 Insights
+![Screenshot 2024-04-11 142944__1](https://github.com/uk1124/PassMAN/assets/55598047/ee2eb432-06a4-4339-a7c8-9a3fd7c79add)
+
+![Screenshot 2024-04-11 143121__2](https://github.com/uk1124/PassMAN/assets/55598047/67440ef9-bf6d-4797-86b1-87041f5b0fd8)
+
+![Screenshot 2024-04-11 143406__3](https://github.com/uk1124/PassMAN/assets/55598047/c0ab583d-6dc1-4691-a929-67068d3ba10b)
+
