@@ -17,16 +17,16 @@ Technologies Used
 
 Usage
 - Adding a Password:
-  Enter the website URL, username, and password in the input fields.
-  Click the "Save" button to store the password securely.
+  - Enter the website URL, username, and password in the input fields.
+  - Click the "Save" button to store the password securely.
 
 - Viewing Passwords:
-  All stored passwords are displayed in a table format.
-  Click the icons to copy the URL, username, or password to the clipboard.
-  Use the edit and delete icons to modify or remove passwords.
+  - All stored passwords are displayed in a table format.
+  - Click the icons to copy the URL, username, or password to the clipboard.
+  - Use the edit and delete icons to modify or remove passwords.
 
 - Password Visibility:
-  Click the eye icon next to the password input field to toggle visibility.
-  This allows you to view the password while typing or copying it.
+  - Click the eye icon next to the password input field to toggle visibility.
+  - This allows you to view the password while typing or copying it.
 
 Insights
