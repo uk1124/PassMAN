@@ -1,4 +1,4 @@
-**PassMAN - Your Own Password Manager**
+****PassMAN - Your Own Password Manager****
 
 PassMAN is a simple password manager built using React, TailWind CSS, MongoDB, and Express. It allows users to securely store their website URLs, usernames, and passwords in one place.
 
