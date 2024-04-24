@@ -37,3 +37,6 @@ PassMAN is a simple password manager built using React, TailWind CSS, MongoDB, a
 
 ![Screenshot 2024-04-11 143406__3](https://github.com/uk1124/PassMAN/assets/55598047/c0ab583d-6dc1-4691-a929-67068d3ba10b)
 
+<br>
+Note: The demo link given here is of https://github.com/uk1124/PassMAN-Local-Storage (Implementation of both projects are same just in this we are using MongoDB for storing the data instead of using local storage. 
+</br>
